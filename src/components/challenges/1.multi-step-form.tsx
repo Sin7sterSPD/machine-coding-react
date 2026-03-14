@@ -64,7 +64,7 @@ const MultiStepForm = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#2d2d2d]">
-      <div className="bg-white/80 shadow-xl rounded-xl p-8 w-full max-w-md border border-blue-200">
+      <div className="bg-[#2a2a2a] shadow-xl rounded-xl p-8 w-full max-w-md border border-blue-200">
         <h1 className="text-3xl text-blue-600 font-extrabold mb-6 text-center tracking-tight drop-shadow">
           Multi Step Form
         </h1>
