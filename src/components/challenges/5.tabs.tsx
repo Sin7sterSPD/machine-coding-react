@@ -143,5 +143,5 @@ export function TabsContent({ value, children }: TabTriggerProps) {
 
   if (activeTab !== value) return null;
 
-  return <div className="p-4 border rounded-md bg-gray-50">{children}</div>;
+  return <div className="p-5 border rounded-md bg-gray-50">{children}</div>;
 }
